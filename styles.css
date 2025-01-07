@@ -1,1 +1,20 @@
-/* your code */
+#eg1{
+	padding:5px;
+	width:80vw;
+	height:20vh;
+	text-align:center;
+	border-collapse:collapse;
+	
+}
+
+#eg2{
+	background-color:yellow;
+}
+
+#eg3{
+	background-color:snow;
+}
+
+.eg5{
+	background-color:seashell;
+}
